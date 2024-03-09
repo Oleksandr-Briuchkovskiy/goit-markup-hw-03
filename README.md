@@ -1,1 +1,3 @@
-# goit-markup-hw-03
+# goit-markup-hw-02
+
+My project in goit #3
