@@ -62,8 +62,6 @@ header .container {
   text-transform: uppercase;
   color: #4d5ae5;
   margin-right: 76px;
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 
 .logotype-header-item {
@@ -81,10 +79,12 @@ header .container {
 }
 
 .list-nav .link {
-  color: #2e2f42;
+  color: #3e422e;
   line-height: 1.5;
   font-weight: 500;
   letter-spacing: 0.02em;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .list-nav .link:hover,
